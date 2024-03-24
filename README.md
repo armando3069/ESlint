@@ -1,1 +1,1 @@
-# ESlint
+# Webpack configuration
